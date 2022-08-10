@@ -22,7 +22,7 @@ const Login = () => {
                         </Form.Group>
                         <Form.Group>
                             <Button type="submit">Login</Button>
-                           <p>Don't have an account?<Link to="">Crate an account</Link></p>
+                           <p>Don't have an account?<Link to="/signup">Crate an account</Link></p>
                         </Form.Group>
                     </Form>
                 </Col>
